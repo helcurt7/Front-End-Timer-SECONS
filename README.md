@@ -1,4 +1,4 @@
-# Web-Timer-OTASK Express 
+# Web-Timer-SECONS Express 
 this is a web timer app using express framewowrk for learning hope u gais like it
 [**file are in master branch**]
 
